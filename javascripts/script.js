@@ -1,12 +1,6 @@
-
-
 (function($) {
 $(document).ready(function(){
 
-  $(window).on("load", function() {
-    $('#main-body').slideDown(500);
-  });
-  
   // putting lines by the pre blocks
   $("pre").each(function(){
     var pre = $(this).text().split("\n");
