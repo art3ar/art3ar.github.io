@@ -1,6 +1,6 @@
 {
   "name": "Art3ar Web",
   "tagline": "My First Web",
-  "body": "\r\n**Hello**, this is my first web. I'm still learning on web development :D\r\n\r\nMy name is M. Nur Hasanuddin. I'm from Informatics Engineering Lampung University 2016.\r\n\r\nmy project euler username is \"Art3ar\"\r\n[![art3ar.png](https://s17.postimg.org/kacdpl8y7/art3ar.png)](https://postimg.org/image/51mgbtf9n/)\r\n\r\n\r\n",
+  "body": "# Soal dan jawaban UTS PTI\r\n\r\nSoal Pribadi :\r\n\r\nJelaskan tentang Bus data, Bus alamat, dan Bus Pengendali!\r\n\r\na.  Bus data berfungsi untuk melewatkan data dari dan ke memori utama.\r\n\r\nb.  Bus alamat digunakan untuk mengirimkan isyarat yang menyatakan alamat dalam memori utama\r\n\r\nc.  Bus pengendali berfungsi untuk mengirimkan isyarat yang menyatakan data “dibaca” atau “ditulis” Dari atau dan ke memori utama, peranti masukan, atau peranti keluaran\r\n\r\nuntuk file lengkap soal dan jawaban bisa di download disini : [DOWNLOAD DOCX FILE](web.if.unila.ac.id/mnhasan/wp-content/uploads/sites/90/2016/12/1615061004-M.-Nur-Hasanuddin-UTS-PTI.docx)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
